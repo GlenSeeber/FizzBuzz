@@ -1,0 +1,1 @@
+A simple project from the classic FizzBuzz Prompt. This is intended to show my compitency in writing clean and versatile code.
